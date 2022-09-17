@@ -1,0 +1,4 @@
+Generics: How They Work and Why They Are Important by Josh Juneau
+Gain a solid understanding of generics in Java SE 8.
+JSR 308 Explained: Java Type Annotations by Josh Juneau
+The benefits of type annotations and example use cases.
